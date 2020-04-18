@@ -19,13 +19,13 @@ Premiering in February, the second season of WIRED’s Future Cities series take
 
 **CONNECT WITH WIRED**
 
-Web: <http://po.st/WiredVideo>
-Twitter: <http://po.st/TwitterWired>
-Facebook: <http://po.st/FacebookWired>
-Google+: <http://po.st/GoogleWired>
-Instagram: <http://po.st/InstagramWired>
-Magazine: <http://po.st/MagazineWired>
-Newsletter: <http://po.st/NewslettersWired>
+- Web: <http://po.st/WiredVideo>
+- Twitter: <http://po.st/TwitterWired>
+- Facebook: <http://po.st/FacebookWired>
+- Google+: <http://po.st/GoogleWired>
+- Instagram: <http://po.st/InstagramWired>
+- Magazine: <http://po.st/MagazineWired>
+- Newsletter: <http://po.st/NewslettersWired>
 
 **ABOUT WIRED**
 
