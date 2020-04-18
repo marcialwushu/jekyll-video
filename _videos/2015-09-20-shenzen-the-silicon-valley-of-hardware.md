@@ -1,6 +1,6 @@
 ---
 title: Shenzhen - The Silicon Valley of Hardware (Full Documentary) | Future Cities | WIRED
-youtube_id: https://youtu.be/SGJ5cZnoodY
+youtube_id: SGJ5cZnoodY
 date: 2015-09-20
 tags: [Honey, Comb, Interview]
 ---
