@@ -1,11 +1,9 @@
 ---
-title: What type of bees?
-youtube_id: MapUVzHhov8
+title: Lucas de Souza - Terraform além do básico | #FiqueEmCasaConf
+youtube_id: P3aY4_vxzWQ
 date: 2015-02-16
 tags: [Q&A]
 ---
-Beginner beekeepers can often feel overwhelmed with choices when it comes to buying bees. In this Q&A I attempt to answer the question about the differences between the variety of bees on the market in the US and which ones a beginner should buy.
+Hoje é dia do sensacional Lucas de Souza falar sobre como o Terraform poderá te ajudar a controlar a sua infraestrutura, e o melhor, ele irá falar além do básico! Então já prepara o seu bloco de anotações e bora acompanhar ao vivo!
 
-* [Winterizing beehives with quilt boxes](https://www.youtube.com/watch?v=259kWwVOvmA)
-* [Deborah Delaney's presentation](https://www.youtube.com/watch?v=mziimuh0iRc)
-* [More information](http://www.bushfarms.com/beesraces.htm)
+#FiqueEmCasaConf #LINUXtips #VAIIII
