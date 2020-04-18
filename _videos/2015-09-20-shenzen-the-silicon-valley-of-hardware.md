@@ -1,9 +1,10 @@
 ---
-title: Shenzhen: The Silicon Valley of Hardware (Full Documentary) | Future Cities | WIRED
+title: Shenzhen: The Silicon Valley of Hardware (Full Documentary) 
 youtube_id: SGJ5cZnoodY
 date: 2015-09-20
 tags: [Science, Technology]
 ---
+
 Future Cities, a full-length documentary strand from WIRED Video, takes us inside the bustling Chinese city of Shenzhen. 
 Subscribe to WIRED►► <http://po.st/SubscribeWired>
 
