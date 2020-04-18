@@ -1,7 +1,12 @@
 ---
-title: Candle Shrinkage Trick
-youtube_id: 4O7_6nvAk08
+title: Jérôme Petazzoni - Creating Optimized Images for Docker and Kubernetes | #FiqueEmCasaConf
+youtube_id: UbXv-T4IUXk
 date: 2014-12-09
 tags: [Candles, Tips]
 ---
-If you're making large candles you will experience shrinkage as the wax cools. There's an easy trick to fixing it without making a mess or a blobby bottom.
+Hoje é o dia do sensacional Jérôme nos ensinar como criar imagens otimizadas para Docker e Kubernetes usando Nix, NixOS, nixpkgs, e Nixery. Vai ser sensacional! :D
+
+Slide da apresentação: [https://docs.google.com/presentation/...](https://docs.google.com/presentation/d/1gPCvnmwBmSOsZBmcSqJjTMCQPbbuST4inZIqDvyvc9A/present?slide=id.g739a072184_0_15)
+
+#FiqueEmCasaConf #LINUXtips #VAIIII
+
