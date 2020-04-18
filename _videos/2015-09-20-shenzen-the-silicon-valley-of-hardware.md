@@ -1,5 +1,5 @@
 ---
-title: Shenzhen: The Silicon Valley of Hardware (Full Documentary)
+title: Shenzhen: The Silicon Valley of Hardware - Full Documentary
 youtube_id: https://youtu.be/SGJ5cZnoodY
 date: 2015-09-20
 tags: [Honey, Comb, Interview]
