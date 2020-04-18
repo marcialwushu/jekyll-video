@@ -1,7 +1,7 @@
 ---
-title: Foundationless Frames
-youtube_id: VwJjE2g-0tc
+title: Toda a Verdade - Prostituição na internet - SIC Noticias
+youtube_id: Bv6KC8hD9WY
 date: 2015-02-28
 tags: [Combs, Construction, Foundation]
 ---
-In this video I show 2 methods I use to create a comb guide to help the bees build straight comb. I also give the reasons I choose not to use foundation and show what is meant by "bee space."
+Novo Canal,  [https://www.youtube.com/channel/UC80M...](https://www.youtube.com/channel/UC80Mw5G_AT520Juq4fdfvog)
